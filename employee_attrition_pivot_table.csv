@@ -1,0 +1,21 @@
+Gender,(All)
+,
+Department,Average of Salary
+Engineering,113654.75
+Finance,114807.61
+HR,112475.25
+IT,116697.51
+Marketing,114487.28
+Operations,113038.94
+Sales,113481.36
+Grand Total,114091.72
+,
+,
+ReasonForLeaving,PercentageReasonForLeaving
+Terminated,17.35%
+Better Opportunity,17.07%
+Retired,16.98%
+Resigned,16.69%
+Relocation,16.22%
+Health Issues,15.69%
+Grand Total,100.00%
